@@ -4,5 +4,8 @@
 # Ignore object files
 *.o
 
+#ignore all json file
+*.json
+
 # Ignore build folders
 /build/
